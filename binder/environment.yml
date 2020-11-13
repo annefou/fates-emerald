@@ -13,3 +13,4 @@ dependencies:
   - netcdf4
   - cartopy
   - dask
+  - nc-time-axis
