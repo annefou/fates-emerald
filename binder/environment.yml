@@ -3,8 +3,8 @@ channels:
   - bioconda
   - defaults
 dependencies:
-    - python>=3
-    - fates-emerald==2.0.1
-    - tar==1.32
-    - binutils==2.35
-    - perl-xml-libxml==2.0132
+  - python>=3
+  - perl-xml-libxml==2.0132
+  - tar==1.32
+  - binutils==2.35
+  - fates-emerald==2.0.1
